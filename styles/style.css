@@ -1,0 +1,54 @@
+.logo {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	padding-top: 100px;
+	padding-bottom: 10px;
+}
+
+input {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+div input {
+	display: inline-block;
+}
+
+.button {
+	padding-top: 10px;
+	text-align: center;
+}
+
+li {
+	float: right;
+	padding: 0 8px 0;
+	display: inline-block;
+}
+
+ul.top {
+	position: fixed;
+	top: 0;
+	width: 95%;
+}
+
+a {
+	text-decoration: none;
+	color: black;
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+ul.bottom {
+	position: fixed;
+	bottom: 0;
+	width: 95%;
+	background-color: #e1eaea;
+}
+
+.left {
+	float: left;
+}
